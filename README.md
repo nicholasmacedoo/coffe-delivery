@@ -33,7 +33,7 @@ Projeto desenvolvimento durante o curso ReactJs Ignite da [Rocketseat](https://w
 - [x] Adicionar um produto ao carrinho
 - [x] Informa localização atual do usuário pela latitude e longitude utilizando API Google Maps Platform
 - [x] Dados persistidos no local storage dos produtos no carrinho
-
+- [x] Fake API para trazer os produtos
 ---
 
 ## Como funciona
@@ -48,10 +48,10 @@ Antes de iniciar, você vai precisar ter as seguintes ferramentas instalada em s
 ```bash
 
 # Clonar este repositorio
-$ git clone git@github.com:nicholasmacedoo/coffee-delivery.git
+$ git clone https://github.com/nicholasmacedoo/coffee-delivery.git
 
 # Acessar a pasta do projeto pelo terminal
-$ cd coffe-delivery
+$ cd coffee-delivery
 
 # Instalar as dependências com npm
 $ npm install
@@ -87,3 +87,4 @@ Na contrução do projeto foram utilizados as seguintes tecnologias:
 - **[React Router](https://v5.reactrouter.com/web/guides/quick-start)**
 - **[Styled Components](https://styled-components.com/)**
 - **[React Toastify](https://fkhadra.github.io/react-toastify/introduction/)**
+- **[Json Server](https://github.com/typicode/json-server)**
