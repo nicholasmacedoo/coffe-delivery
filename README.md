@@ -48,7 +48,7 @@ Antes de iniciar, você vai precisar ter as seguintes ferramentas instalada em s
 ```bash
 
 # Clonar este repositorio
-$ git clone git@github.com:nicholasmacedoo/coffe-delivery.git
+$ git clone git@github.com:nicholasmacedoo/coffee-delivery.git
 
 # Acessar a pasta do projeto pelo terminal
 $ cd coffe-delivery
